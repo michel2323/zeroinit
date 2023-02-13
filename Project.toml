@@ -1,0 +1,8 @@
+[deps]
+AMDGPU = "21141c5a-9bdb-4563-92ae-f87d6854732e"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+CUDAKernels = "72cfdca4-0801-4ab0-bf6a-d52aa10adc57"
+KernelAbstractions = "63c18a36-062a-441e-b654-da1e3ab1ce7c"
+ROCKernels = "7eb9e9f0-4bd3-4c4c-8bef-26bd9629d9b9"
+oneAPI = "8f75cd03-7ff8-4ecb-9b8f-daf728133b1b"
+oneAPIKernels = "3b98bdbd-c5fb-40e4-a3b9-3b59ff234f62"
